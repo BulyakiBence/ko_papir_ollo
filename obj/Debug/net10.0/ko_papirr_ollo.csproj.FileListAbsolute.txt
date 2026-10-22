@@ -1,0 +1,14 @@
+H:\Asztali\ko_papirr_ollo\bin\Debug\net10.0\ko_papirr_ollo.exe
+H:\Asztali\ko_papirr_ollo\bin\Debug\net10.0\ko_papirr_ollo.deps.json
+H:\Asztali\ko_papirr_ollo\bin\Debug\net10.0\ko_papirr_ollo.runtimeconfig.json
+H:\Asztali\ko_papirr_ollo\bin\Debug\net10.0\ko_papirr_ollo.dll
+H:\Asztali\ko_papirr_ollo\bin\Debug\net10.0\ko_papirr_ollo.pdb
+H:\Asztali\ko_papirr_ollo\obj\Debug\net10.0\ko_papirr_ollo.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali\ko_papirr_ollo\obj\Debug\net10.0\ko_papirr_ollo.AssemblyInfoInputs.cache
+H:\Asztali\ko_papirr_ollo\obj\Debug\net10.0\ko_papirr_ollo.AssemblyInfo.cs
+H:\Asztali\ko_papirr_ollo\obj\Debug\net10.0\ko_papirr_ollo.csproj.CoreCompileInputs.cache
+H:\Asztali\ko_papirr_ollo\obj\Debug\net10.0\ko_papirr_ollo.dll
+H:\Asztali\ko_papirr_ollo\obj\Debug\net10.0\refint\ko_papirr_ollo.dll
+H:\Asztali\ko_papirr_ollo\obj\Debug\net10.0\ko_papirr_ollo.pdb
+H:\Asztali\ko_papirr_ollo\obj\Debug\net10.0\ko_papirr_ollo.genruntimeconfig.cache
+H:\Asztali\ko_papirr_ollo\obj\Debug\net10.0\ref\ko_papirr_ollo.dll

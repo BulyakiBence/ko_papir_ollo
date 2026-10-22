@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ko_papirr_ollo/1.0.0": {
+        "runtime": {
+          "ko_papirr_ollo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ko_papirr_ollo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
