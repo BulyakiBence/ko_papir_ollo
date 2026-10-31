@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ko_papirr_ollo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7169e592fd78b107f825c8152d2232a78a843429")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b69cd01903f807e03568abab30cd83cc4261eb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ko_papirr_ollo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ko_papirr_ollo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
